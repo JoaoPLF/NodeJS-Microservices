@@ -1,5 +1,4 @@
-# NodeJS
-**Microservices**
+# NodeJS - Microservices
 
 * Divides functions into microservices
 * Automatically registers and unregisters services
